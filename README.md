@@ -1,16 +1,39 @@
-### Hi there 👋
+[![Email](https://img.shields.io/badge/Email-me@Yekta.Dev-0194dd?style=flat-square&labelColor=212121)](mailto:Me@Yekta.Dev)
+[![Website URL](https://img.shields.io/badge/Website-Yekta.Dev-0194dd?style=flat-square&labelColor=212121)](https://Yekta.Dev)
+[![Twitter](https://img.shields.io/badge/Twitter-@YektaDev-0194dd?style=flat-square&labelColor=212121)](https://twitter.com/YektaDev)
+
+### 👋 Hello World!
+
+I'm Ali, a software developer currently studying computer engineering, interested in Kotlin and its niceness!
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YektaDev&theme=algolia&show_icons=true&count_private=true&hide=stars)](#)
 
 <!--
-**YektaDev/YektaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  Hmm…
+  You seem curious; I like it (+__+)
+  Now that you're here, let me show you my logo. It somehow represents the Persian word "یکتا" (Yekta — Meaning unique) symmetrically.
+                                                                                         
+                @@@@@@@                                           @@@@@@@                
+               @@@@@@@@@@@                                     @@@@@@@@@@@               
+                 @@@@@@@@@@@@                               @@@@@@@@@@@@                 
+                     @@@@@@@@@@@                         @@@@@@@@@@@                     
+                       @@@@@@@@@@@                     @@@@@@@@@@@                       
+                          @@@@@@@@@@                 @@@@@@@@@@                          
+                            @@@@@@@@@@             @@@@@@@@@@                            
+                              @@@@@@@@@           @@@@@@@@@                              
+                               @@@@@@@@@@       @@@@@@@@@@                               
+                                @@@@@@@@@@     @@@@@@@@@@                                
+                                 @@@@@@@@@     @@@@@@@@@                                 
+                                  @@@@@@@@@   @@@@@@@@@                                  
+               @@@                 @@@@@@@@   @@@@@@@@                 @@@               
+  @@@@@@    @@@@@@@@@              @@@@@@@@@ @@@@@@@@@              @@@@@@@@@    @@@@@@  
+ @@@@@@@@@  @@@@@@@@@@             @@@@@@@@@ @@@@@@@@@             @@@@@@@@@@  @@@@@@@@@ 
+  @@@@@@    @@@@@@@@@@            @@@@@@@@@   @@@@@@@@@            @@@@@@@@@@    @@@@@@  
+   @@@@@@   @@@@@@@@@@            @@@@@@@@@   @@@@@@@@@            @@@@@@@@@@   @@@@@@   
+ @@@@@@@@@   @@@@@@@@@@         @@@@@@@@@@     @@@@@@@@@@         @@@@@@@@@@   @@@@@@@@@ 
+   @@@@@@     @@@@@@@@@@@@@@@@@@@@@@@@@@@       @@@@@@@@@@@@@@@@@@@@@@@@@@@     @@@@@@   
+               @@@@@@@@@@@@@@@@@@@@@@@@@         @@@@@@@@@@@@@@@@@@@@@@@@@               
+                 @@@@@@@@@@@@@@@@@@@@               @@@@@@@@@@@@@@@@@@@@                 
+                     @@@@@@@@@@@@                       @@@@@@@@@@@@                     
+                                                                                         
 -->
