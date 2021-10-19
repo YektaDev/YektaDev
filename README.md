@@ -1,12 +1,14 @@
-[![Email](https://img.shields.io/badge/Email-me@Yekta.Dev-0194dd?style=flat-square&labelColor=212121)](mailto:Me@Yekta.Dev)
-[![Website URL](https://img.shields.io/badge/Website-Yekta.Dev-0194dd?style=flat-square&labelColor=212121)](https://Yekta.Dev)
-[![Twitter](https://img.shields.io/badge/Twitter-@YektaDev-0194dd?style=flat-square&labelColor=212121)](https://twitter.com/YektaDev)
+<h1 align="center">👋 Hi, I,m Ali!</h1>
+<h3 align="center">A software developer currently studying computer engineering, interested in Kotlin and its niceness!</h3>
 
-### 👋 Hello World!
-
-I'm Ali, a software developer currently studying computer engineering, interested in Kotlin and its niceness!
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YektaDev&theme=algolia&show_icons=true&count_private=true&hide=stars)](#)
+<p align="center">
+  <br/>
+  <a href="mailto:Me@Yekta.Dev"><img src="https://img.shields.io/badge/Email-me@Yekta.Dev-0194dd?style=flat-square&labelColor=212121" alt="Email"/></a>
+  <a href="https://Yekta.Dev"><img src="https://img.shields.io/badge/Website-Yekta.Dev-0194dd?style=flat-square&labelColor=212121" alt="Website"/></a>
+  <a href="https://twitter.com/YektaDev"><img src="https://img.shields.io/badge/Twitter-@YektaDev-0194dd?style=flat-square&labelColor=212121" alt="Twitter"/></a>
+  <br/><br/><br/>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=YektaDev&theme=algolia&show_icons=true&count_private=true&hide=stars" alt="My GitHub stats"/></a>
+</p>
 
 <!--
   Hmm…
