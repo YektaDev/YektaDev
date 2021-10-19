@@ -7,7 +7,9 @@
   <a href="https://Yekta.Dev"><img src="https://img.shields.io/badge/Website-Yekta.Dev-0194dd?style=flat-square&labelColor=212121" alt="Website"/></a>
   <a href="https://twitter.com/YektaDev"><img src="https://img.shields.io/badge/Twitter-@YektaDev-0194dd?style=flat-square&labelColor=212121" alt="Twitter"/></a>
   <br/><br/><br/>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=YektaDev&theme=algolia&show_icons=true&count_private=true&hide=stars" alt="My GitHub stats"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=YektaDev&theme=algolia&show_icons=true&count_private=true&hide=stars&custom_title=GitHub Stats" alt="My GitHub Stats"/></a>
+  <br/>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YektaDev&theme=algolia&layout=compact&card_width=445&langs_count=10" alt="Most Publicly Used Langs"/></a>
 </p>
 
 <!--
