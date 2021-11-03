@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I,m Ali!</h1>
+<h1 align="center">👋 Hi, I'm Ali!</h1>
 <h3 align="center">A software developer currently studying computer engineering, interested in Kotlin and its niceness!</h3>
 
 <p align="center">
