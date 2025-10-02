@@ -19,8 +19,7 @@
   <img align="center" src="https://gradle.com/wp-content/themes/fuel/assets/img/branding/gradle-elephant-icon-gradient.svg" width="45" height="45" alt="gradle.com"></img>
   𒂭
   <img align="center" src="https://astro.build/assets/press/astro-icon-light-gradient.svg" width="33" height="33" alt="astro.build"></img>
-</p>
-
+</p><p align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=YektaDev&style=pixel&color=grey&label=Views"/></a></p>
 <!--
   Hmm…
   You seem curious… I adore curious souls!
